@@ -83,7 +83,6 @@ class SampleButton extends JButton{
 			
 		});
 		
-		setMargin(new Insets(0,0,0,0));
-		setBorder(null);
+		
 	}
 }
